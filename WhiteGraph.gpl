@@ -1,0 +1,6 @@
+set term png
+set o "M2Graph.png"
+
+unset key
+
+p "data" u 2:4 w l

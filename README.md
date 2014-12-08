@@ -10,4 +10,4 @@ After running the script, the result shows how the density changes as the radius
 
 The graph of the results are shown below.
 
-![alt text] https://raw.githubusercontent.com/ayman-ali/Midterm-2-Part-1/master/M2Graph.png
+![alt text] (https://raw.githubusercontent.com/ayman-ali/Midterm-2-Part-1/master/M2Graph.png)

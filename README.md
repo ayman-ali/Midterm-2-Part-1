@@ -1,5 +1,3 @@
-##Midterm 2 Part 1
-
 This repository contains a program that will solve dimensionles differential equations to describe the radial mass distrubution inside a white dwarf star where;
 
 the central mass distrubtion is initally 10. 
